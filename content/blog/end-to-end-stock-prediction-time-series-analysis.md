@@ -5,7 +5,8 @@ date: 2025-10-04T17:46:59.668Z
 
 
 
-> visit: [Github Repo](https://github.com/AmitPress/tsa-finance) for the reference
+
+> visit: [Github Repo](https://cutt.ly/zr0IzZYs) for the reference
 ---
 In this particular blog, we will go through some eternal tenets of time-series analysis (TSA). We will try to start from the ancient statistical models and go beyond machine learning.
 
