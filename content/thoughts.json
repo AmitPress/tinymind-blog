@@ -1,5 +1,10 @@
 [
   {
+    "id": "1763642410097",
+    "content": "Creating game engine could be a long time goal that will need expertise in scripting language (to avoid compiling again and again, or hot code reloading can be a good move), memory management, particle simulation packaging and delivery.\n\nI really liked Cave but as of now I think I can start the journey with Struckd\nThe idea is to go like: Struckd -> Unity -> Maybe Godot for sometime -> My Own\n\nI think development of game is the ultimate goal. Via this road, I can cherish my ultimate dream of storytelling.",
+    "timestamp": "2025-11-20T12:40:10.097Z"
+  },
+  {
     "id": "1759244569455",
     "content": "Today's AI is jack of all trades master of none. If we need a specialist AI, we need to train it to be that. And this trained AI will be all proprietory, private. So, AI trainer and fine tuners will be in demand.",
     "timestamp": "2025-09-30T15:02:49.455Z"
