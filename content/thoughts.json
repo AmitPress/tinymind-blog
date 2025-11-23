@@ -1,5 +1,10 @@
 [
   {
+    "id": "1763882149846",
+    "content": "Gödel’s Incompleteness → True but Unprovable Statements\n\nGödel showed that any sufficiently powerful logical system (like arithmetic):\n\nis either incomplete (cannot prove all true statements)\n\nor inconsistent (proves contradictions)\n\nHe built a self-referential sentence:\n\n“This statement is not provable.”\n\nIf the system proves it, the system is inconsistent.\nIf it cannot prove it, the statement is true — showing the system is incomplete.\n\nThis self-referential trick is the heart of incompleteness.",
+    "timestamp": "2025-11-23T07:15:49.846Z"
+  },
+  {
     "id": "1763642410097",
     "content": "Creating game engine could be a long time goal that will need expertise in scripting language (to avoid compiling again and again, or hot code reloading can be a good move), memory management, particle simulation packaging and delivery.\n\nI really liked Cave but as of now I think I can start the journey with Struckd\nThe idea is to go like: Struckd -> Unity -> Maybe Godot for sometime -> My Own\n\nI think development of game is the ultimate goal. Via this road, I can cherish my ultimate dream of storytelling.",
     "timestamp": "2025-11-20T12:40:10.097Z"
